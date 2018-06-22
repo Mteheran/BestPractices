@@ -1,4 +1,4 @@
-﻿namespace GoodPractices.Test
+﻿namespace BestPractices.Test
 {
     using Microsoft.VisualStudio.TestTools.UnitTesting;
 

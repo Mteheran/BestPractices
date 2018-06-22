@@ -1,4 +1,4 @@
-﻿namespace GoodPractices
+﻿namespace BestPractices
 {
     public class StringInterpolation
     {
